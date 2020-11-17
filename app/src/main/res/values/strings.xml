@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="pogoda">Pogoda</string>
+    <string name="wyszukaj">Wyszukaj</string>
+</resources>
